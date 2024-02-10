@@ -1,0 +1,729 @@
+Gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório? 03 analise de sentimentos com língua estúdio. 
+
+[
+    {
+        "Id": "f960361fde414d56888732ea13d434b8",
+        "RecognitionStatus": 0,
+        "Offset": 4700000,
+        "Duration": 88000000,
+        "Channel": 0,
+        "DisplayText": "Gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório? 03 analise de sentimentos com língua estúdio.",
+        "NBest": [
+            {
+                "Confidence": 0.76218545,
+                "Lexical": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "ITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório 03 analise de sentimentos com língua estúdio",
+                "MaskedITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório 03 analise de sentimentos com língua estúdio",
+                "Display": "Gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório? 03 analise de sentimentos com língua estúdio.",
+                "Words": [
+                    {
+                        "Word": "gostaria",
+                        "Offset": 4700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 9500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 13500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 19900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "recurso",
+                        "Offset": 21500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 26700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 37100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 37900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 42700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 43500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 46300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 53900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 55900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "laboratório",
+                        "Offset": 56300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "zero",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 65500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "analise",
+                        "Offset": 69900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 73500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 74300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 79900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "língua",
+                        "Offset": 82300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "estúdio",
+                        "Offset": 85100000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.76218545,
+                "Lexical": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "ITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "MaskedITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "Display": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "Words": [
+                    {
+                        "Word": "gostaria",
+                        "Offset": 4700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 9500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 13500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 19900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "recurso",
+                        "Offset": 21500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 26700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 37100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 37900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 42700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 43500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 46300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 53900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 55900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "laboratório",
+                        "Offset": 56300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "zero",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 65500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "analise",
+                        "Offset": 69900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 73500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 74300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 79900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "língua",
+                        "Offset": 82300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "estúdio",
+                        "Offset": 85100000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.76218545,
+                "Lexical": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "ITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "MaskedITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "Display": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "Words": [
+                    {
+                        "Word": "gostaria",
+                        "Offset": 4700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 9500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 13500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 19900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "recurso",
+                        "Offset": 21500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 26700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 37100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 37900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 42700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 43500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 46300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 53900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 55900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "laboratório",
+                        "Offset": 56300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "zero",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 65500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "analise",
+                        "Offset": 69900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 73500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 74300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 79900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "língua",
+                        "Offset": 82300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "estúdio",
+                        "Offset": 85100000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.76218545,
+                "Lexical": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "ITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "MaskedITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "Display": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "Words": [
+                    {
+                        "Word": "gostaria",
+                        "Offset": 4700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 9500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 13500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 19900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "recurso",
+                        "Offset": 21500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 26700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 37100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 37900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 42700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 43500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 46300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 53900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 55900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "laboratório",
+                        "Offset": 56300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "zero",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 65500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "analise",
+                        "Offset": 69900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 73500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 74300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 79900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "língua",
+                        "Offset": 82300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "estúdio",
+                        "Offset": 85100000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.76218545,
+                "Lexical": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "ITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "MaskedITN": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "Display": "gostaria de fazer um teste com recurso de transcrição de fala em texto em tempo real para o laboratório zero três analise de sentimentos com língua estúdio",
+                "Words": [
+                    {
+                        "Word": "gostaria",
+                        "Offset": 4700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 9500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 13500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 19900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "recurso",
+                        "Offset": 21500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 25900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 26700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 31500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "fala",
+                        "Offset": 32700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 37100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "texto",
+                        "Offset": 37900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 42700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 43500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 46300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 53900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 55900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "laboratório",
+                        "Offset": 56300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "zero",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 65500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "analise",
+                        "Offset": 69900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 73500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 74300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 79900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "língua",
+                        "Offset": 82300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "estúdio",
+                        "Offset": 85100000,
+                        "Duration": 7600000
+                    }

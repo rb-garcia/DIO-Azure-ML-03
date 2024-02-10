@@ -1,0 +1,151 @@
+{
+    "documents": [
+        {
+            "id": "id__880",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.36,
+                "neutral": 0.01,
+                "negative": 0.64
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 235,
+                    "text": "Pontos positivos, recepcionistas excelentes, muitos gentis e educados, roupas de cama e banho muito limpas, branquinhas, limpeza dos quartos boa, localização ótima, piscina limpinha, café da manhã bom se chegar cedo antes das 9 horas.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.02,
+                        "negative": 0.91
+                    },
+                    "offset": 235,
+                    "length": 13,
+                    "text": "Não curtiu · ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 248,
+                    "length": 587,
+                    "text": "Café da manhã, se você chegar a partir de 9 horas, tudo que acaba, não tem reposição, mal cheiro parece esgoto ao caminho do refeitório onde toma café, vazamento de água do box, armário muito pequeno, tem que deixar as malas e roupas pelo chão, tomando espaço de você se movimentar no quarto (imagine, estávamos 3 pessoas, 3 malas no chão do quarto), se você esquecer de pedir na recepção para limpar o quarto até 10 horas, não limpam, lixeira quebrada, falta de espelho no quarto, espelho somente no lavabo, claridade demais dentro do quarto, falta tomadas no quarto, somente 2 tomadas.",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 427,
+                            "length": 7,
+                            "text": "armário",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 712,
+                            "length": 7,
+                            "text": "espelho",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/2"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 799,
+                            "length": 7,
+                            "text": "tomadas",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/3"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 441,
+                            "length": 7,
+                            "text": "pequeno",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.02,
+                                "negative": 0.98
+                            },
+                            "offset": 677,
+                            "length": 6,
+                            "text": "limpam",
+                            "isNegated": true
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 703,
+                            "length": 5,
+                            "text": "falta",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 793,
+                            "length": 5,
+                            "text": "falta",
+                            "isNegated": false
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
