@@ -2,6 +2,7 @@
 Análise de Sentimentos com Language Studio no Azure AI
 
 # Visão geral do processo
+## Análise de sentimento e opiniões 
 - Acesse a página web: https://language.cognitive.azure.com/home
 - Clique em "Analyse sentiment and mine opinions"
 - Selecione o idioma do texto "Select text language"
